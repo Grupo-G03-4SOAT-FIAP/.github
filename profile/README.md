@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 We are "BOPE", a group of students in the Software Architecture postgraduate course at FIAP college in São Paulo, Brazil.\
-*The group's name "BOPE" is a homage to the Brazilian movie series "Tropa de Elite" by film-maker Pablo Padilha.*
+*The group's name "BOPE" is a homage to the Brazilian movie series "Tropa de Elite" by the film-maker Pablo Padilha.*
 
 <!--
 
