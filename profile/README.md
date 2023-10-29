@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are "BOPE", a group of students in the Software Architecture postgraduate course at FIAP college in São Paulo, Brazil.
+
 <!--
 
 **Here are some ideas to get you started:**
